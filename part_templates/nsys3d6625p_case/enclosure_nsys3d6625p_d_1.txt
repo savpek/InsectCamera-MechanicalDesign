@@ -1,0 +1,4 @@
+﻿"Symbol";"Value";"Unit";
+"DESIGN";"Spacial 3D wall mounted steel enclosure with plain chassis 600 x 600 x 250";"";
+"REFERENCE";"NSYS3D6625P";"";
+"SUPPLIER";"Schneider Electric";"";
